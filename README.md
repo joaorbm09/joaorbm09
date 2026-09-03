@@ -53,7 +53,7 @@ Uso este GitHub para registrar minha evolução durante o curso: **atividades, e
 
 Durante o primeiro período da formação, tive contato com diferentes áreas do desenvolvimento de sistemas.
 
-**💻 Lógica de Programação e Algoritmos**
+### 💻 Lógica de Programação e Algoritmos
 
 * Python
 * Flowgorithm
@@ -64,32 +64,32 @@ Durante o primeiro período da formação, tive contato com diferentes áreas do
 * Matrizes
 * Funções e parâmetros
 
-**📋 Engenharia de Requisitos**
+### 📋 Engenharia de Requisitos
 
 * Requisitos funcionais e não funcionais
 * Casos de uso
 * Git e GitHub
 * Desenvolvimento de projetos
 
-**🌐 Arquitetura de Redes e Internet**
+### 🌐 Arquitetura de Redes e Internet
 
 * HTTP
 * Arquitetura Web
 * HTML e CSS
 * Python + Flask
 
-**🐧 Sistemas Operacionais**
+### 🐧 Sistemas Operacionais
 
 * Linux
 * Debian
 * Ubuntu Server
-* Bash/Terminal
+* Bash / Terminal
 * SSH
 * UFW
 * OpenVPN
 * Fundamentos de segurança
 
-**🗄️ Banco de Dados**
+### 🗄️ Banco de Dados
 
 * SQL
 * PostgreSQL
@@ -99,7 +99,7 @@ Durante o primeiro período da formação, tive contato com diferentes áreas do
 * MER e DER
 * Cardinalidades
 
-**🌐 Desenvolvimento Web**
+### 🌐 Desenvolvimento Web
 
 * HTML5
 * CSS3
@@ -107,7 +107,7 @@ Durante o primeiro período da formação, tive contato com diferentes áreas do
 * Grid
 * Estrutura de páginas Web
 
-**🐘 Back-End**
+### 🐘 Back-End
 
 * PHP
 * Variáveis
@@ -134,7 +134,7 @@ Atividades e projetos desenvolvidos durante o primeiro semestre da formação.
 
 **Principais conteúdos:** Python, Lógica de Programação, Engenharia de Requisitos, Redes, Linux, Segurança, Git e GitHub.
 
-➡️ [Ver repositório](./senai-primeiro-semestre)
+➡️ [Ver repositório](https://github.com/joaorbm09/SENAI_PRIMEIRO_SEMESTRE)
 
 ---
 
@@ -144,7 +144,7 @@ Atividades da disciplina de **Linguagens de Marcação**, com foco em desenvolvi
 
 **Principais conteúdos:** HTML5, CSS3, Flexbox, Grid, formulários, páginas Web e projetos.
 
-➡️ [Ver repositório](./senai-lima)
+➡️ [Ver repositório](https://github.com/joaorbm09/lima)
 
 ---
 
@@ -154,7 +154,7 @@ Atividades e estudos relacionados ao desenvolvimento Back-End utilizando PHP.
 
 **Principais conteúdos:** PHP, lógica, estruturas condicionais, loops, arrays e desenvolvimento de aplicações.
 
-➡️ [Ver repositório](./senai-backend-php)
+➡️ [Ver repositório](https://github.com/joaorbm09/backend)
 
 ---
 
@@ -164,7 +164,7 @@ Estudos, exercícios e projetos envolvendo bancos de dados relacionais.
 
 **Principais conteúdos:** SQL, PostgreSQL, DDL, DML, relacionamentos, MER, DER e modelagem de dados.
 
-➡️ [Ver repositório](./senai-banco-de-dados)
+➡️ [Ver repositório](https://github.com/joaorbm09/banco_de_dados)
 
 ---
 
@@ -188,9 +188,13 @@ Novos projetos serão adicionados conforme minha evolução no curso.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaorbm09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/joaorbm09">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaorbm09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorbm09&layout=compact&langs_count=8&theme=tokyonight"/>
+<a href="https://github.com/joaorbm09">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorbm09&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+</a>
 
 </div>
 
@@ -245,6 +249,6 @@ Quero usar este GitHub como um registro da minha evolução:
 
 ### 💻 Sempre aprendendo. Sempre construindo.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
 
 </div>
