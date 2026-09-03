@@ -20,7 +20,7 @@ Atualmente estou construindo minha base em programação, desenvolvimento web, b
 
 Uso este GitHub para registrar minha evolução durante o curso: **atividades, exercícios, anotações, projetos e experiências práticas**.
 
-> 🚀 A ideia aqui não é mostrar apenas o que eu já sei, mas também registrar tudo o que estou aprendendo ao longo da minha formação.
+> 🚀 A ideia aqui é registrar não apenas o que eu já sei, mas também tudo aquilo que estou aprendendo ao longo da minha formação.
 
 ---
 
@@ -32,18 +32,18 @@ Uso este GitHub para registrar minha evolução durante o curso: **atividades, e
 
 </div>
 
-### 📚 Atualmente estudando
+### 📚 Conhecimentos em desenvolvimento
 
-* 🐍 **Python**
-* 🌐 **HTML5 & CSS3**
-* 🐘 **PHP**
-* 🗄️ **SQL & PostgreSQL**
-* 🔀 **Git & GitHub**
-* 🐧 **Linux**
-* 🧠 **Lógica de Programação**
-* 📐 **Engenharia de Requisitos**
-* 🌐 **Arquitetura de Redes**
-* 🔐 **Fundamentos de Segurança**
+* 🐍 Python
+* 🐘 PHP
+* 🌐 HTML5 & CSS3
+* 🗄️ SQL & PostgreSQL
+* 🔀 Git & GitHub
+* 🐧 Linux
+* 🧠 Lógica de Programação
+* 📐 Engenharia de Requisitos
+* 🌐 Arquitetura de Redes
+* 🔐 Fundamentos de Segurança
 
 ---
 
@@ -120,9 +120,9 @@ Durante o primeiro período da formação, tive contato com diferentes áreas do
 
 ### 🔵 2027 — Em construção...
 
-> 🚧 Esta parte ainda está sendo escrita.
+> 🚧 Esta parte ainda será atualizada conforme minha formação avançar.
 
-Conforme minha formação avançar, esta seção será atualizada com novas tecnologias, projetos e conhecimentos adquiridos.
+Novas tecnologias, projetos e conhecimentos serão adicionados ao longo do próximo período do curso.
 
 ---
 
@@ -172,29 +172,25 @@ Estudos, exercícios e projetos envolvendo bancos de dados relacionais.
 
 Além das atividades de aula, pretendo transformar os conhecimentos adquiridos em projetos próprios.
 
-### 📌 Projetos atuais
+### 📌 Projetos desenvolvidos
 
 * 🅿️ **QuickParking** — projeto desenvolvido durante a formação
-* 🔐 **Sistema de Login** — aplicação utilizando Python/Flask
+* 🔐 **Sistema de Login** — aplicação utilizando Python e Flask
 * 🐧 **Projeto de Servidor e Segurança** — configuração e análise de ambiente Linux
 
 ### 💡 Próximos projetos
 
-Novos projetos serão adicionados conforme minha evolução no curso.
+Novos projetos serão adicionados conforme minha experiência e conhecimento aumentarem.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <div align="center">
 
-<a href="https://github.com/joaorbm09">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaorbm09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=joaorbm09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
 
-<a href="https://github.com/joaorbm09">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorbm09&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorbm09&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 
 </div>
 
@@ -204,7 +200,20 @@ Novos projetos serão adicionados conforme minha evolução no curso.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/joaorbm09/joaorbm09/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/joaorbm09/joaorbm09/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/joaorbm09/joaorbm09/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pac-Man Contribution Graph"
+    src="https://raw.githubusercontent.com/joaorbm09/joaorbm09/output/pacman-contribution-graph.svg"
+  />
+</picture>
 
 </div>
 
@@ -212,42 +221,37 @@ Novos projetos serão adicionados conforme minha evolução no curso.
 
 ## 📈 Minha evolução
 
-```text
-2026
- │
- ├── 🐍 Python
- ├── 🌐 HTML / CSS
- ├── 🗄️ SQL / PostgreSQL
- ├── 🐘 PHP
- ├── 🐧 Linux
- ├── 🔐 Segurança
- ├── 📋 Engenharia de Requisitos
- └── 🔀 Git / GitHub
-       │
-       ▼
-2027
- │
- ├── 🚧 Novas tecnologias
- ├── 🚧 Novos projetos
- ├── 🚧 Mais experiência prática
- └── 🚧 Preparação para o mercado
-```
+<div align="center">
+
+|      Ano      | Foco                                               |
+| :-----------: | :------------------------------------------------- |
+|  🟢 **2026**  | Python • Web • SQL • PostgreSQL • PHP • Linux      |
+|  🔵 **2027**  | Novas tecnologias • Projetos • Experiência prática |
+| 🚀 **Futuro** | Desenvolvimento profissional e entrada no mercado  |
+
+</div>
 
 ---
 
 ## 🎯 Meu objetivo
 
-Meu objetivo durante a formação é construir uma **base sólida em Desenvolvimento de Sistemas**, praticando constantemente e transformando os conteúdos estudados em projetos reais.
+Meu objetivo durante a formação é construir uma **base sólida em Desenvolvimento de Sistemas**, praticando constantemente e transformando os conteúdos estudados em projetos.
 
 Quero usar este GitHub como um registro da minha evolução:
 
-**📚 Aprender → 💻 Praticar → 🚀 Desenvolver → 📈 Evoluir**
+<div align="center">
+
+### 📚 Aprender → 💻 Praticar → 🚀 Desenvolver → 📈 Evoluir
+
+</div>
 
 ---
 
 <div align="center">
 
 ### 💻 Sempre aprendendo. Sempre construindo.
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
 
