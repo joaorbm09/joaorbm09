@@ -4,18 +4,9 @@
 
 ### 🎓 Técnico em Desenvolvimento de Sistemas
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Estudante+de+Desenvolvimento+de+Sistemas;Aprendendo+%E2%80%A2+Praticando+%E2%80%A2+Desenvolvendo;Construindo+minha+trajet%C3%B3ria+na+tecnologia" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Estudante+de+Desenvolvimento+de+Sistemas;Aprendendo+%E2%80%A2+Praticando+%E2%80%A2+Desenvolvendo;Construindo+minha+trajet%C3%B3ria+na+tecnologia" alt="Typing SVG" />
 
-</div>
-
----
-
-<div align="center">
-
-💻 **Programação**  • 
-🌐 **Desenvolvimento Web**  • 
-🗄️ **Banco de Dados**  • 
-📚 **Aprendizado contínuo**
+💻 Programação • 🌐 Desenvolvimento Web • 🗄️ Banco de Dados • 🐧 Linux
 
 </div>
 
@@ -23,91 +14,173 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou estudante do curso **Técnico em Desenvolvimento de Sistemas** e estou construindo minha base na área de tecnologia através de estudos, exercícios e projetos desenvolvidos durante minha formação.
+Sou estudante do curso **Técnico em Desenvolvimento de Sistemas no SENAI**.
 
-Este GitHub funciona como um registro da minha evolução: aqui reúno atividades, anotações, experimentos e projetos realizados ao longo do curso.
+Atualmente estou construindo minha base em programação, desenvolvimento web, banco de dados, sistemas operacionais e outras áreas relacionadas ao desenvolvimento de software.
 
-> **Aprender → Praticar → Desenvolver → Melhorar**
+Uso este GitHub para registrar minha evolução durante o curso: **atividades, exercícios, anotações, projetos e experiências práticas**.
 
----
-
-## 🛠️ Tecnologias
-
-### 💻 Linguagens
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,php,html,css" />
-
-</p>
-
-### 🗄️ Banco de Dados
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=postgresql" />
-
-</p>
-
-### 🔧 Ferramentas
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-
-</p>
+> 🚀 A ideia aqui não é mostrar apenas o que eu já sei, mas também registrar tudo o que estou aprendendo ao longo da minha formação.
 
 ---
 
-## 📚 Minha jornada
+## 🛠️ Tecnologias e ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,php,html,css,postgresql,git,github,vscode,linux&perline=9" />
+
+</div>
+
+### 📚 Atualmente estudando
+
+* 🐍 **Python**
+* 🌐 **HTML5 & CSS3**
+* 🐘 **PHP**
+* 🗄️ **SQL & PostgreSQL**
+* 🔀 **Git & GitHub**
+* 🐧 **Linux**
+* 🧠 **Lógica de Programação**
+* 📐 **Engenharia de Requisitos**
+* 🌐 **Arquitetura de Redes**
+* 🔐 **Fundamentos de Segurança**
+
+---
+
+## 🎓 Minha jornada no SENAI
 
 ### 🟢 2026 — Construindo minha base
 
-Durante o início da minha formação, venho estudando diferentes áreas do desenvolvimento de sistemas.
+Durante o primeiro período da formação, tive contato com diferentes áreas do desenvolvimento de sistemas.
 
-**Principais conteúdos:**
+**💻 Lógica de Programação e Algoritmos**
 
-* 🐍 Lógica de programação e Python
-* 🌐 HTML e desenvolvimento Web
-* 🗄️ SQL e PostgreSQL
-* 🐘 PHP e Back-End
-* 🖥️ Linux e linha de comando
-* 🔐 Fundamentos de redes e segurança
-* 📋 Levantamento e especificação de requisitos
-* 🔧 Git e GitHub
+* Python
+* Flowgorithm
+* Estruturas condicionais
+* Laços de repetição
+* Strings
+* Listas, tuplas e dicionários
+* Matrizes
+* Funções e parâmetros
+
+**📋 Engenharia de Requisitos**
+
+* Requisitos funcionais e não funcionais
+* Casos de uso
+* Git e GitHub
+* Desenvolvimento de projetos
+
+**🌐 Arquitetura de Redes e Internet**
+
+* HTTP
+* Arquitetura Web
+* HTML e CSS
+* Python + Flask
+
+**🐧 Sistemas Operacionais**
+
+* Linux
+* Debian
+* Ubuntu Server
+* Bash/Terminal
+* SSH
+* UFW
+* OpenVPN
+* Fundamentos de segurança
+
+**🗄️ Banco de Dados**
+
+* SQL
+* PostgreSQL
+* DDL e DML
+* Tabelas e relacionamentos
+* Chaves primárias e estrangeiras
+* MER e DER
+* Cardinalidades
+
+**🌐 Desenvolvimento Web**
+
+* HTML5
+* CSS3
+* Flexbox
+* Grid
+* Estrutura de páginas Web
+
+**🐘 Back-End**
+
+* PHP
+* Variáveis
+* Condicionais
+* Switch
+* Laços
+* Arrays
+
+---
 
 ### 🔵 2027 — Em construção...
 
-🚧 Minha jornada continua.
+> 🚧 Esta parte ainda está sendo escrita.
 
-Novos conhecimentos, tecnologias e projetos serão adicionados conforme avanço na formação.
+Conforme minha formação avançar, esta seção será atualizada com novas tecnologias, projetos e conhecimentos adquiridos.
 
 ---
 
 ## 📂 Repositórios de estudo
 
-<div align="center">
+### 🎓 SENAI — Primeiro Semestre
 
-|                                   Repositório                                  |                       Conteúdo                       |
-| :----------------------------------------------------------------------------: | :--------------------------------------------------: |
-| 🎓 [SENAI — 1º Semestre](https://github.com/joaorbm09/senai-primeiro-semestre) | Python, Lógica, Redes, Linux, Requisitos e Segurança |
-|               🌐 [LIMA](https://github.com/joaorbm09/senai-lima)               |            HTML, CSS e Desenvolvimento Web           |
-|        ⚙️ [Back-End PHP](https://github.com/joaorbm09/senai-backend-php)       |             PHP e fundamentos de Back-End            |
-|     🗄️ [Banco de Dados](https://github.com/joaorbm09/senai-banco-de-dados)    |              SQL, PostgreSQL e Modelagem             |
+Atividades e projetos desenvolvidos durante o primeiro semestre da formação.
 
-</div>
+**Principais conteúdos:** Python, Lógica de Programação, Engenharia de Requisitos, Redes, Linux, Segurança, Git e GitHub.
+
+➡️ [Ver repositório](./senai-primeiro-semestre)
+
+---
+
+### 🌐 SENAI — LIMA
+
+Atividades da disciplina de **Linguagens de Marcação**, com foco em desenvolvimento Front-End.
+
+**Principais conteúdos:** HTML5, CSS3, Flexbox, Grid, formulários, páginas Web e projetos.
+
+➡️ [Ver repositório](./senai-lima)
+
+---
+
+### 🐘 SENAI — Back-End PHP
+
+Atividades e estudos relacionados ao desenvolvimento Back-End utilizando PHP.
+
+**Principais conteúdos:** PHP, lógica, estruturas condicionais, loops, arrays e desenvolvimento de aplicações.
+
+➡️ [Ver repositório](./senai-backend-php)
+
+---
+
+### 🗄️ SENAI — Banco de Dados
+
+Estudos, exercícios e projetos envolvendo bancos de dados relacionais.
+
+**Principais conteúdos:** SQL, PostgreSQL, DDL, DML, relacionamentos, MER, DER e modelagem de dados.
+
+➡️ [Ver repositório](./senai-banco-de-dados)
 
 ---
 
 ## 🚀 Projetos
 
-Conforme avanço na minha formação, projetos mais completos serão adicionados ao meu portfólio.
+Além das atividades de aula, pretendo transformar os conhecimentos adquiridos em projetos próprios.
 
-<div align="center">
+### 📌 Projetos atuais
 
-🔨 **Projetos em construção...**
+* 🅿️ **QuickParking** — projeto desenvolvido durante a formação
+* 🔐 **Sistema de Login** — aplicação utilizando Python/Flask
+* 🐧 **Projeto de Servidor e Segurança** — configuração e análise de ambiente Linux
 
-</div>
+### 💡 Próximos projetos
+
+Novos projetos serão adicionados conforme minha evolução no curso.
 
 ---
 
@@ -115,68 +188,63 @@ Conforme avanço na minha formação, projetos mais completos serão adicionados
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaorbm09&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaorbm09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorbm09&layout=compact&langs_count=8&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorbm09&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
 ---
 
-## 🔥 Atividade
+## 🎮 Minha atividade no GitHub
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=joaorbm09&hide_border=true" />
+<img src="https://raw.githubusercontent.com/joaorbm09/joaorbm09/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" />
 
 </div>
 
 ---
 
-## 🐍 Minha evolução no GitHub
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/joaorbm09/joaorbm09/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
-
-</div>
-
----
-
-## 📈 Evolução
-
-Este perfil acompanha minha trajetória desde os primeiros exercícios até projetos cada vez mais completos.
+## 📈 Minha evolução
 
 ```text
 2026
  │
  ├── 🐍 Python
  ├── 🌐 HTML / CSS
- ├── 🗄️ Banco de Dados
+ ├── 🗄️ SQL / PostgreSQL
  ├── 🐘 PHP
- ├── 🖥️ Linux
- └── 🔧 Git / GitHub
-        │
-        ▼
-     2027
-        │
-        ├── 🚀 Novas tecnologias
-        ├── 💻 Projetos maiores
-        └── 🎓 Conclusão da formação
+ ├── 🐧 Linux
+ ├── 🔐 Segurança
+ ├── 📋 Engenharia de Requisitos
+ └── 🔀 Git / GitHub
+       │
+       ▼
+2027
+ │
+ ├── 🚧 Novas tecnologias
+ ├── 🚧 Novos projetos
+ ├── 🚧 Mais experiência prática
+ └── 🚧 Preparação para o mercado
 ```
 
 ---
 
-## 🎯 Objetivo
+## 🎯 Meu objetivo
 
-Construir uma base sólida em **Desenvolvimento de Sistemas**, transformar conhecimento em projetos e continuar evoluindo profissionalmente na área de tecnologia.
+Meu objetivo durante a formação é construir uma **base sólida em Desenvolvimento de Sistemas**, praticando constantemente e transformando os conteúdos estudados em projetos reais.
+
+Quero usar este GitHub como um registro da minha evolução:
+
+**📚 Aprender → 💻 Praticar → 🚀 Desenvolver → 📈 Evoluir**
 
 ---
 
 <div align="center">
 
-### 💙 Obrigado por visitar meu perfil!
+### 💻 Sempre aprendendo. Sempre construindo.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer"/>
 
 </div>
